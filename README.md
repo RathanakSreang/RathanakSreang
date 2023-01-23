@@ -6,7 +6,8 @@ I build free and open source software for fun and the betterment of Khmer langua
 
  - Founder and maintainer of [Khmerlang](https://github.com/khmerlang?q=&type=all&language=&sort=stargazers) 📊
  - Founder and maintainer of [Khmerlang-Keyboard](https://github.com/khmerlang/Khmerlang-Keyboard) 📈
- - Founder and maintainer of [Khmer Analysis Plugin for Elasticsearch](https://github.com/khmerlang/elasticsearch-analysis-khmerlang) 🧠
+ - Founder and maintainer of [khmer-number](https://github.com/khmerlang/khmer-number) 📈
+ - Founder and maintainer of [KhmerWordSegmentation](https://github.com/RathanakSreang/KhmerWordSegmentation) 🧠
  - And lots of [other stuff](https://github.com/RathanakSreang?tab=repositories&q=&type=&language=&sort=stargazers) ✨
 
 
