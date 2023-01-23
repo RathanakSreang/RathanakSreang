@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I'm Rathanak 👋
 
-<!--
-**RathanakSreang/RathanakSreang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build free and open source software for fun and the betterment of Khmer language in digital space 🌎🌍🌏. I also do work for 💸.
 
-Here are some ideas to get you started:
+### Projects 📌
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - Founder and maintainer of [Khmerlang](https://github.com/khmerlang?q=&type=all&language=&sort=stargazers) 📊
+ - Founder and maintainer of [Khmerlang-Keyboard](https://github.com/khmerlang/Khmerlang-Keyboard) 📈
+ - Founder and maintainer of [Khmer Analysis Plugin for Elasticsearch](https://github.com/khmerlang/elasticsearch-analysis-khmerlang) 🧠
+ - And lots of [other stuff](https://github.com/RathanakSreang?tab=repositories&q=&type=&language=&sort=stargazers) ✨
+
+
+### Around the web 🧭
+
+ - Check out my [Khmerlang.com](https://khmerlang.com/) 🌐
+ - Check out my [Linkedin](http://www.linkedin.com/in/sreang-rathanak)
+ - Check out my [slide](https://www.canva.com/design/DAFSB_J1eNM/DNzeIUO2T8IZZuyZmdqDZQ/view?utm_content=DAFSB_J1eNM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+ 
