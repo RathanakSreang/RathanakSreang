@@ -1,6 +1,6 @@
 ### Hi, I'm Rathanak 👋
 
-I build free and open source software for fun and the betterment of Khmer language in digital space 🌎🌍🌏. I also do work for 💸.
+I build free and open source software for fun, and at the same time, to improve the usages of Khmer language in the digital world 🌎🌍🌏. I also do work for 💸.
 
 ### Projects 📌
 
